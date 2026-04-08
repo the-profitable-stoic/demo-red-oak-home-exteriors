@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Red Oak Home Exteriors",
+    "phone": "+14055177754",
+    "category": "window and door installer",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City's Window & Door Authority",
+      "heroSubline": "Protect your home from Oklahoma's unpredictable weather with expert installation. We deliver lasting quality and unmatched service.",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Red Oak Home Exteriors started with a simple goal: to provide Oklahoma City homeowners with dependable and durable window and door solutions. We saw a need for a contractor who understood the unique challenges of our local climate.",
+        "We believe in a straightforward approach – honest assessments, clear communication, and meticulous installation. Our team is committed to exceeding expectations on every project, big or small. We treat every home as if it were our own.",
+        "We're proud to be a part of the Oklahoma City community. We source materials locally whenever possible and actively support local initiatives. Red Oak Home Exteriors is invested in the long-term well-being of our neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Oklahoma's climate and housing styles, ensuring optimal performance and longevity."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We partner with leading manufacturers to offer windows and doors built to withstand Oklahoma's weather extremes."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our certified installers guarantee precise, weather-tight seals for maximum energy efficiency and protection."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront quotes with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today",
+      "ctaSubline": "Request a free consultation and discover the Red Oak Home Exteriors difference."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Enhance your home's beauty and efficiency with our professional window replacement services.",
+        "description": "Red Oak Home Exteriors specializes in window replacement for Oklahoma City homes. We understand that Oklahoma's climate demands windows that can withstand extreme temperatures, high winds, and potential hail damage. That's why we offer a wide selection of energy-efficient windows from trusted manufacturers, designed to provide lasting performance and beauty. \n\nOur experienced installers ensure a precise fit and airtight seal, preventing drafts and minimizing energy loss. We handle everything from removing your old windows to installing new ones, and we always clean up thoroughly after the job is done. Whether you're looking to upgrade your home's appearance, improve energy efficiency, or increase its value, Red Oak Home Exteriors has the perfect window replacement solution for you.\n\nWe offer a variety of window styles, including double-hung, casement, sliding, and picture windows, to complement any architectural design. Our team will work with you to select the right windows for your needs and budget, providing expert guidance and personalized service every step of the way. We also provide options for impact-resistant glass to better protect your home from storm damage, which is especially relevant in Oklahoma City.",
+        "process": [
+          "Step 1: Schedule a free consultation to discuss your needs and preferences.",
+          "Step 2: Receive a detailed, transparent quote with no hidden fees.",
+          "Step 3: Our experienced installers will remove your old windows and install your new ones with precision.",
+          "Step 4: Enjoy improved energy efficiency, enhanced aesthetics, and increased home value."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration of a window replacement project depends on the number of windows being replaced and the complexity of the installation. We'll provide you with an estimated timeline during your consultation."
+          },
+          {
+            "question": "What type of windows are best for Oklahoma's climate?",
+            "answer": "Energy-efficient windows with low-E coatings and argon gas fills are ideal for Oklahoma's climate. These features help to minimize heat transfer, keeping your home comfortable year-round."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation",
+        "shortDescription": "Secure and beautify your home with our professional door installation services.",
+        "description": "Red Oak Home Exteriors provides expert door installation services to Oklahoma City homeowners. A properly installed door not only enhances your home's curb appeal but also provides security and energy efficiency. We install entry doors, patio doors, and storm doors, ensuring a perfect fit and weather-tight seal.\n\nOur team is experienced in working with a variety of door materials, including wood, fiberglass, and steel. We'll help you choose the right door for your needs and budget, considering factors such as style, security, and energy efficiency. We pay close attention to detail during installation, ensuring that your door operates smoothly and provides lasting protection.\n\nWe also offer door repair services, addressing issues such as sticking, squeaking, and air leaks. Whether you need a new door installed or an existing door repaired, Red Oak Home Exteriors is here to help. Given Oklahoma City's exposure to severe weather, we can advise on storm-rated doors and reinforcement options to protect your home.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your door installation needs.",
+          "Step 2: Select the perfect door from our wide range of styles and materials.",
+          "Step 3: Our skilled technicians will install your new door with precision and care.",
+          "Step 4: Enjoy enhanced security, energy efficiency, and curb appeal."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Improved energy efficiency",
+          "Increased curb appeal",
+          "Weather protection"
+        ],
+        "faq": [
+          {
+            "question": "What type of door is best for security?",
+            "answer": "Steel doors are the most secure option for entry doors. They are resistant to forced entry and provide excellent protection against intruders."
+          },
+          {
+            "question": "How can I improve the energy efficiency of my door?",
+            "answer": "Choose a door with a high insulation value and weather stripping to prevent air leaks. Also, consider installing a storm door for added protection."
+          },
+          {
+            "question": "Do you install custom doors?",
+            "answer": "Yes, we can install custom doors to fit your specific needs and preferences. Contact us to discuss your custom door project."
+          }
+        ]
+      },
+      {
+        "slug": "storm-door-installation",
+        "name": "Storm Door Installation",
+        "shortDescription": "Protect your entry doors from Oklahoma's storms with our storm door installation.",
+        "description": "Red Oak Home Exteriors specializes in storm door installation, providing Oklahoma City homeowners with an added layer of protection against the elements. Oklahoma's unpredictable weather, from severe thunderstorms to hailstorms, can take a toll on your entry doors. A properly installed storm door can help extend the life of your entry door and improve your home's energy efficiency.\n\nWe offer a variety of storm door styles, including full-view, mid-view, and self-storing models. Our team will help you select the right storm door for your needs and budget, considering factors such as style, ventilation, and security. We ensure a precise fit and weather-tight seal, preventing drafts and minimizing energy loss.\n\nIn addition to protecting your entry door from weather damage, a storm door can also provide added security and ventilation. Many storm doors feature screens that allow you to enjoy fresh air without letting in insects. We install high-quality storm doors designed to withstand Oklahoma's harsh weather conditions.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your storm door needs.",
+          "Step 2: Choose a storm door that complements your home's style and provides the desired features.",
+          "Step 3: Our expert installers will install your new storm door with precision and care.",
+          "Step 4: Enjoy added protection, ventilation, and energy efficiency."
+        ],
+        "benefits": [
+          "Protection from weather damage",
+          "Improved energy efficiency",
+          "Added security",
+          "Ventilation"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a storm door?",
+            "answer": "Storm doors protect your entry door from weather damage, improve energy efficiency, add security, and provide ventilation."
+          },
+          {
+            "question": "What type of storm door is best for ventilation?",
+            "answer": "Self-storing storm doors feature a retractable screen that allows you to enjoy fresh air without letting in insects."
+          },
+          {
+            "question": "How much does storm door installation cost?",
+            "answer": "The cost of storm door installation depends on the type of door and the complexity of the installation. We'll provide you with a detailed quote during your consultation."
+          }
+        ]
+      },
+      {
+        "slug": "patio-door-installation",
+        "name": "Patio Door Installation",
+        "shortDescription": "Enhance your outdoor living space with our professional patio door installation.",
+        "description": "Red Oak Home Exteriors offers professional patio door installation services to Oklahoma City homeowners, seamlessly blending indoor and outdoor living spaces. We understand that a well-installed patio door can enhance your home's aesthetics, improve energy efficiency, and provide easy access to your outdoor space.\n\nWe install a variety of patio door styles, including sliding glass doors, French doors, and bi-fold doors. Our team will help you choose the right patio door for your needs and budget, considering factors such as style, security, and energy efficiency. We ensure a precise fit and weather-tight seal, preventing drafts and minimizing energy loss. We understand the importance of proper insulation and sealing, especially in Oklahoma City's climate with its temperature extremes.\n\nWhether you're looking to create a seamless transition to your backyard, add natural light to your home, or improve ventilation, Red Oak Home Exteriors has the perfect patio door solution for you. We use only high-quality materials and expert installation techniques to ensure lasting performance and beauty.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your patio door needs.",
+          "Step 2: Select the perfect patio door from our wide range of styles and materials.",
+          "Step 3: Our skilled technicians will install your new patio door with precision and care.",
+          "Step 4: Enjoy enhanced indoor-outdoor living and improved home value."
+        ],
+        "benefits": [
+          "Enhanced indoor-outdoor living",
+          "Increased natural light",
+          "Improved ventilation",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a sliding glass door?",
+            "answer": "Sliding glass doors are easy to operate, provide a wide view of your outdoor space, and save space compared to swinging doors."
+          },
+          {
+            "question": "What are the benefits of French doors?",
+            "answer": "French doors add a touch of elegance to your home and provide a wider opening than sliding glass doors."
+          },
+          {
+            "question": "How can I improve the security of my patio door?",
+            "answer": "Choose a patio door with a multi-point locking system and reinforced glass. Also, consider installing a security bar for added protection."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Restore your windows to their former glory with our reliable window repair services.",
+        "description": "Red Oak Home Exteriors provides comprehensive window repair services to Oklahoma City residents, addressing a wide range of issues to restore your windows to optimal condition. From broken glass to faulty hardware, we have the expertise to diagnose and fix any problem. We understand that damaged windows can compromise your home's energy efficiency, security, and curb appeal.\n\nOur window repair services include glass replacement, hardware repair, weather stripping replacement, and frame repair. We use only high-quality materials and expert techniques to ensure lasting repairs. We prioritize cost-effective solutions, striving to repair your existing windows whenever possible before recommending replacement.\n\nWhether you have a cracked window pane, a drafty window, or a window that won't open or close properly, Red Oak Home Exteriors is here to help. We'll assess the damage, provide you with a detailed quote, and complete the repairs quickly and efficiently. We understand the importance of maintaining your home's windows, especially in Oklahoma City's climate, known for its hail and severe weather.",
+        "process": [
+          "Step 1: Schedule a consultation to assess your window repair needs.",
+          "Step 2: Receive a detailed quote for the necessary repairs.",
+          "Step 3: Our skilled technicians will complete the repairs with precision and care.",
+          "Step 4: Enjoy restored window performance and improved home comfort."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced security",
+          "Restored curb appeal",
+          "Cost-effective solutions"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my window needs repair?",
+            "answer": "Signs that your window needs repair include cracked glass, drafts, difficulty opening or closing, and condensation between the panes."
+          },
+          {
+            "question": "Can you repair windows with broken glass?",
+            "answer": "Yes, we can replace broken glass in most types of windows. We'll ensure a perfect fit and weather-tight seal."
+          },
+          {
+            "question": "How much does window repair cost?",
+            "answer": "The cost of window repair depends on the type of damage and the complexity of the repair. We'll provide you with a detailed quote during your consultation."
+          }
+        ]
+      },
+      {
+        "slug": "door-frame-repair",
+        "name": "Door Frame Repair",
+        "shortDescription": "Strengthen your home's entry points with our expert door frame repair services.",
+        "description": "Red Oak Home Exteriors offers specialized door frame repair services in Oklahoma City, addressing damage caused by weather, wear and tear, or forced entry. A damaged door frame can compromise your home's security and energy efficiency. We understand the importance of a strong, well-maintained door frame for protecting your home and family.\n\nOur door frame repair services include repairing or replacing rotted wood, fixing damaged jambs, and reinforcing weak areas. We use only high-quality materials and expert techniques to ensure lasting repairs. We pay close attention to detail, ensuring that your door frame is properly aligned and sealed to prevent drafts and water damage.\n\nWhether your door frame has been damaged by a storm, termites, or simply old age, Red Oak Home Exteriors is here to help. We'll assess the damage, provide you with a detailed quote, and complete the repairs quickly and efficiently. We understand the unique challenges of repairing door frames in Oklahoma City's climate, including the effects of moisture and temperature fluctuations.",
+        "process": [
+          "Step 1: Schedule a consultation to assess your door frame repair needs.",
+          "Step 2: Receive a detailed quote for the necessary repairs.",
+          "Step 3: Our skilled technicians will complete the repairs with precision and care.",
+          "Step 4: Enjoy a strengthened door frame and improved home security."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Improved energy efficiency",
+          "Prevention of water damage",
+          "Restored structural integrity"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my door frame needs repair?",
+            "answer": "Signs that your door frame needs repair include rotted wood, cracks, gaps, and difficulty opening or closing the door."
+          },
+          {
+            "question": "Can you repair door frames damaged by termites?",
+            "answer": "Yes, we can repair door frames damaged by termites. We'll remove the damaged wood and replace it with treated lumber."
+          },
+          {
+            "question": "How much does door frame repair cost?",
+            "answer": "The cost of door frame repair depends on the extent of the damage and the complexity of the repair. We'll provide you with a detailed quote during your consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors is proud to serve the vibrant community of Oklahoma City, OK. As the state capital and a major economic hub, Oklahoma City boasts a diverse range of architectural styles, from historic homes in the Paseo Arts District to modern residences in Bricktown. We understand the unique needs of homeowners in OKC and offer a comprehensive selection of high-quality windows and doors to enhance the beauty and energy efficiency of your home.\n\nWhether you're looking to replace outdated windows with energy-efficient models to combat Oklahoma's hot summers or upgrade your doors for improved security and curb appeal, Red Oak Home Exteriors is here to help. Our experienced team provides expert installation services, ensuring that your new windows and doors are properly fitted and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget.",
+        "localContext": "Oklahoma City is known for its booming economy, cultural attractions like the Oklahoma City National Memorial & Museum, and its friendly, welcoming atmosphere. We understand the unique climate and architectural styles of homes in Oklahoma City.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors extends its exceptional window and door services to the thriving city of Edmond, OK. Known for its excellent schools, family-friendly atmosphere, and beautiful parks, Edmond is a desirable place to live. We recognize the importance of maintaining the aesthetic appeal and energy efficiency of homes in Edmond and offer a wide selection of top-quality windows and doors to meet your specific needs.\n\nFrom classic designs to modern styles, we have the perfect windows and doors to complement your Edmond home. Our expert team provides professional installation services, ensuring that your new windows and doors are properly installed and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to enhance the beauty and value of your home.",
+        "localContext": "Edmond is known for its high quality of life, excellent schools, and beautiful residential neighborhoods. We understand the specific needs of homeowners in Edmond and are dedicated to providing top-notch service.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "The Village"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors is proud to serve the resilient community of Moore, OK. We understand the unique challenges faced by homeowners in Moore and offer durable, high-quality windows and doors that can withstand Oklahoma's unpredictable weather. Whether you're looking to replace storm-damaged windows or upgrade your doors for improved security, we're here to help.\n\nOur experienced team provides expert installation services, ensuring that your new windows and doors are properly fitted and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget. We offer a wide variety of styles and materials to suit any home and budget.",
+        "localContext": "Moore is a family-friendly community known for its strong sense of community and resilience. We are committed to serving the needs of homeowners in Moore with reliable and affordable window and door solutions.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors provides top-quality window and door services to the vibrant city of Norman, OK, home to the University of Oklahoma. We understand the diverse needs of homeowners in Norman, from historic homes near campus to modern residences in newer developments. We offer a wide selection of windows and doors to enhance the beauty, energy efficiency, and security of your home.\n\nWhether you're a student, faculty member, or long-time resident, Red Oak Home Exteriors is here to help you find the perfect windows and doors for your home. Our expert team provides professional installation services, ensuring that your new windows and doors are properly installed and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget.",
+        "localContext": "Norman is a dynamic city known for its university atmosphere, thriving arts scene, and strong sense of community. We understand the unique climate and architectural styles of homes in Norman.",
+        "nearbyAreas": [
+          "Moore",
+          "Oklahoma City",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors proudly serves the growing community of Yukon, OK, offering a wide range of window and door solutions to meet your needs. Known for its Czech heritage and family-friendly environment, Yukon is a great place to call home. We understand the importance of having reliable and energy-efficient windows and doors to protect your home and family.\n\nOur experienced team provides expert installation services, ensuring that your new windows and doors are properly fitted and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget. We offer a variety of styles and materials to suit any home and budget.",
+        "localContext": "Yukon is a vibrant community with a strong sense of identity and a growing economy. We are committed to providing quality window and door services to the residents of Yukon.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors extends its services to the rapidly growing city of Mustang, OK. Known for its excellent schools and family-oriented community, Mustang is a popular choice for those seeking a suburban lifestyle. We offer a wide selection of high-quality windows and doors to enhance the beauty, energy efficiency, and security of your home.\n\nOur experienced team provides expert installation services, ensuring that your new windows and doors are properly fitted and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget.",
+        "localContext": "Mustang is a family-friendly community with a strong emphasis on education and community involvement. We understand the needs of homeowners in Mustang and are dedicated to providing top-notch service.",
+        "nearbyAreas": [
+          "Yukon",
+          "Oklahoma City",
+          "Tuttle"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors is pleased to offer our window and door services to the city of Shawnee, OK. As a regional hub with a rich history, Shawnee offers a unique blend of small-town charm and modern amenities. We understand the diverse needs of homeowners in Shawnee and offer a wide selection of windows and doors to enhance the beauty, energy efficiency, and security of your home.\n\nWhether you're looking to preserve the historic character of your home or update to a more modern style, Red Oak Home Exteriors is here to help. Our expert team provides professional installation services, ensuring that your new windows and doors are properly installed and sealed for optimal performance. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget.",
+        "localContext": "Shawnee is a historic city with a strong sense of community and a growing economy. We understand the unique architectural styles and climate of Shawnee.",
+        "nearbyAreas": [
+          "Tecumseh",
+          "Harrah",
+          "Meeker"
+        ]
+      },
+      {
+        "city": "Guthrie",
+        "slug": "guthrie-ok",
+        "state": "OK",
+        "content": "Red Oak Home Exteriors is proud to serve the historical city of Guthrie, OK. As the original capital of Oklahoma, Guthrie boasts a rich architectural heritage. We understand the importance of preserving the character of historic homes while improving their energy efficiency and security.\n\nOur team specializes in window and door replacements that complement the unique architectural styles found in Guthrie. We offer a variety of materials and styles that adhere to any historical guidelines. We are committed to providing exceptional customer service and helping you find the perfect solutions to meet your needs and budget.",
+        "localContext": "Guthrie is a city rich in history, known for its Victorian architecture and historic downtown. We are committed to preserving the historical charm of Guthrie while providing modern window and door solutions.",
+        "nearbyAreas": [
+          "Edmond",
+          "Crescent",
+          "Mulhall"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "Red Oak Home Exteriors did an amazing job replacing our windows. The team was professional, efficient, and very respectful of our home. We noticed a huge difference in our energy bill immediately! Highly recommend them to anyone in OKC looking for quality window replacement.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "We had Red Oak install a new front door, and the process was smooth from start to finish. The installer was very knowledgeable and took the time to answer all of our questions. There was a slight delay due to weather, but they kept us informed throughout the process. Overall, we're very happy with the result.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Storm Door Installation",
+        "text": "Living in Oklahoma City, a good storm door is a must! Red Oak Home Exteriors installed a beautiful and sturdy storm door for us. The installation was quick and clean. It gives us peace of mind knowing our entryway is better protected from the elements.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Window Repair",
+        "text": "I had a broken window pane after a recent hailstorm. Red Oak Home Exteriors was able to come out quickly and replace the glass. They were professional and the price was very reasonable. Great service!",
+        "date": "2025-06-10"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Patio Door Installation",
+        "text": "Red Oak Home Exteriors installed a new sliding glass door for our patio, and it has completely transformed our backyard space! The installation team was excellent and very detailed. The only minor issue was some difficulty scheduling the initial consultation.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Door Frame Repair",
+        "text": "Excellent work repairing my door frame after a break-in attempt. Red Oak Home Exteriors was responsive, professional, and did a fantastic job reinforcing the frame. I feel much safer now!",
+        "date": "2025-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Red Oak Home Exteriors | OKC Windows & Doors",
+        "description": "Oklahoma City's trusted window and door installer. Expert replacement & installation. Protect your home with quality and service."
+      },
+      "about": {
+        "title": "About Us | Red Oak Home Exteriors OKC",
+        "description": "Learn about Red Oak Home Exteriors' commitment to quality window and door solutions in Oklahoma City. Our values and expertise."
+      },
+      "services": {
+        "title": "Our Services | OKC Window & Door Installation",
+        "description": "Red Oak Home Exteriors offers expert window and door installation and replacement services in Oklahoma City. Explore our services."
+      },
+      "contact": {
+        "title": "Contact Us | Red Oak Home Exteriors OKC",
+        "description": "Contact Red Oak Home Exteriors for window and door installation and replacement in Oklahoma City. Get a free consultation today!"
+      },
+      "reviews": {
+        "title": "Reviews | Red Oak Home Exteriors OKC",
+        "description": "Read reviews from satisfied Red Oak Home Exteriors customers in Oklahoma City. See why we're a trusted window and door installer."
+      },
+      "service-areas": {
+        "title": "Service Areas | Red Oak Home Exteriors OKC",
+        "description": "Red Oak Home Exteriors provides window and door installation services throughout Oklahoma City and surrounding areas. Find your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "storm-door-installation": "/images/service-storm-door-installation.webp",
+      "patio-door-installation": "/images/service-patio-door-installation.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "door-frame-repair": "/images/service-door-frame-repair.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-door-installation": {
+        "src": "/images/service-storm-door-installation.webp",
+        "srcset": "/images/service-storm-door-installation-400w.webp 400w, /images/service-storm-door-installation-800w.webp 800w, /images/service-storm-door-installation-1200w.webp 1200w, /images/service-storm-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-door-installation": {
+        "src": "/images/service-patio-door-installation.webp",
+        "srcset": "/images/service-patio-door-installation-400w.webp 400w, /images/service-patio-door-installation-800w.webp 800w, /images/service-patio-door-installation-1200w.webp 1200w, /images/service-patio-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-frame-repair": {
+        "src": "/images/service-door-frame-repair.webp",
+        "srcset": "/images/service-door-frame-repair-400w.webp 400w, /images/service-door-frame-repair-800w.webp 800w, /images/service-door-frame-repair-1200w.webp 1200w, /images/service-door-frame-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
